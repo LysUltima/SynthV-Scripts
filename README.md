@@ -14,3 +14,5 @@ MaiPhoneme.js slightly de-esses the notes in the selected track.
 ResetPhoneme.js makes all phonemes in the selected track have default strength and duration. Good for when you're updating your voicebank and realize that the old strength and duration adjustments don't work at all anymore.
 
 SolariaPhonemeEN.js changes the phoneme length and strength of many specific phonemes. This script is specifically geared for use on Solaria 101.
+
+FYPhoneme.js halves the duration of all English vowels. Useful for making non-English banks have more natural English.
